@@ -1,6 +1,6 @@
 # NNsummary
 
-"Identification of the governing equation for run-and-tumble dynamics from stimulus-response data" PLoS Computational Biology
+"Identification of the governing equation for run-and-tumble dynamics from stimulus-response data" 
 
 Training datasets and output from NN simulation runs are in:
 
