@@ -2,26 +2,21 @@
 
 "Identification of the governing equation for run-and-tumble dynamics from stimulus-response data" 
 
-Training datasets and output from NN simulation runs are in:
-
-1 dataset -- ecoli performance;
-
-2 dataset -- euglena performance;
-
-3 dataset -- ode numbers.
+ALL training datasets and output from NN simulation runs are in: "data"
 
 
-Matlab codes for generating datasets are in
+Matlab and Python codes for each subsections or Appendix are in:
 
-1 simu code -- ecoli performance;
+1 Performance on the E. coli tumbling fraction
 
-2 simu code -- euglena performance;
+2 Performance on the measured E. gracilis tumbling fraction
 
-3 simu code -- ode numbers;
+3 Relation between SIVM and DIVM and criteria for their selection
 
-4 simu code -- signal tests.
+4 Design principles for stimuli
 
+5 Appendix E
 
-Python main codes for neural networks training are in:
+6 Appendix F
 
-NN code for training.
+7 functions
